@@ -1,6 +1,6 @@
 ## Base Genesis NFT User
 
-1. Create a new erc20 token using remix and this contract
+1. Create a new erc token using remix and this contract
 https://mirror.xyz/0xmoei.eth/q6bkosOnWcQ-wkZeRoVdYiMDSWXvBeR2NuLV92SnZ_g
 
 3. Verify your contract
